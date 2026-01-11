@@ -28,7 +28,7 @@ Yeh project Verilog HDL ka upyog karke ek **Parameterizable Dual Port RAM** ka i
 Niche di gayi image simulation waveforms ko dikhati hai jahan Port A aur Port B ek hi samay par data access kar rahe hain:
 
 ![Simulation Waveform](./simulation_pic.png) 
-*(Note: Apni waveform ki photo ka naam 'simulation_pic.png' rakh kar GitHub pe upload karein taaki woh yahan dikhe)*
+
 
 ---
 
