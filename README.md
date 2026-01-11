@@ -40,5 +40,5 @@ Niche di gayi image simulation waveforms ko dikhati hai jahan Port A aur Port B 
 ---
 
 ### Author ✍️
-* **Aapka Naam** * GitHub: [github.com/your-username](https://github.com/your-username)
-* LinkedIn: [Inka link yahan daalein]
+* **Sagar Katariya** (https://github.com/sagarahir123) 
+* LinkedIn: https://www.linkedin.com/in/sagar-katariya-803763248/
